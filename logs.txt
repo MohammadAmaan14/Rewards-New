@@ -1,0 +1,8 @@
+{
+    "mohd.danish69420@hotmail.com": {
+        "Last check": "2023-11-24",
+        "Today's points": 175,
+        "Points": 2868
+    },
+    "Elapsed time": "00:12:37"
+}

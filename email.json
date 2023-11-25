@@ -1,0 +1,12 @@
+[
+  {
+    "sender": "amaankenz12@gmail.com",
+    "password": "Amaan@noman1234",
+    "receiver": "amaankenz2020@gmail.com",
+    "withdrawal": "false",
+    "lock": "true",
+    "ban": "true",
+    "phoneverification": "true",
+    "proxyfail": "false"
+  }
+]
